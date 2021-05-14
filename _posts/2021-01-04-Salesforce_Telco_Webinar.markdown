@@ -14,13 +14,12 @@ image4: /assets/images/contractmanagement.jpg
 Deze post behandeld een Salesforce webinar waar een gastpreker van een grote Telco (Telephone company) hun ervaring delen bij een implementatie van Salesforce wat hierbij de challenges waren en wat voor hun de grootste veranderingen zijn bij het nieuwe werken die Salesforce introduceerde 
 
 Liberty Global, Shiphol is een internationaal telecommunicatiebedrijf met hoofdkantoren in Londen, Amsterdam en Denver. 
-de gastpreken van deze webinar is Joris Vollebergh, deze persoon staat in voor het managen van de vele partner contract die ze afsluiten.
-
+de gastpreken van deze webinar is Joris Vollebergh, deze persoon staat in voor het managen van de vele partner contract die ze afsluiten. een van hun gekenste partners hier in België is Telenet.
 
 ## Wie? 
-- Joris Vollebergh (guest) Directtor partner Service management binnen Liberty Global
+- Joris Vollebergh (guest) Directtor partner Service management binnen Liberty Global.
 
-- Bastien Durand (Host) Communication Media Business Development Lead binnen Salesforce
+- Bastien Durand (Host) Communication Media Business Development Lead binnen Salesforce.
 
 ## Intro Salesforce
 
@@ -57,7 +56,3 @@ Nu kan Liberty Global van van 3 maanden op voorhand voor dat een contract beindi
 - Het uniform maken van het volledige partner proces.
 - Verbeterde interne verwerking van de demands.
 - Een 360° zicht op hun customers en partners
-- 
-
-
-### Telco
