@@ -9,23 +9,18 @@ image2: /assets/images/patnerportaal.jpg
 image3: /assets/images/accountmanagement_2.jpg
 image4: /assets/images/contractmanagement.jpg
 ---
-## Wat?
+## Onderwerp :
 
-Advanced B2B with Telco
+Deze post behandeld een Salesforce webinar waar een gastpreker van een grote Telco (Telephone company) hun ervaring delen bij een implementatie van Salesforce wat hierbij de challenges waren en wat voor hun de grootste veranderingen zijn bij het nieuwe werken die Salesforce introduceerde 
 
-Liberty Global, Shiphol : leading telecommunicommunication globaly vooral binnen europa
+Liberty Global, Shiphol is een internationaal telecommunicatiebedrijf met hoofdkantoren in Londen, Amsterdam en Denver. 
+de gastpreken van deze webinar is Joris Vollebergh, deze persoon staat in voor het managen van de vele partner contract die ze afsluiten.
 
-Joris zijn job : 
-2017 begin partner service management binnen Liberty Global
-
-partner service management = > verantwoordelijk voor commerciële contractuele en operationele service voor de partners( klanten )
-new binnne Liberty Global demand handeling, invoicing, order signing, delivery status updates, etz...
 
 ## Wie? 
-- Joris Vollebergh Directtor partner Service management binnen Liberty Global
+- Joris Vollebergh (guest) Directtor partner Service management binnen Liberty Global
 
-- Bastien Durand van Communication Media Biz DevLead binnen Salesforce
-
+- Bastien Durand (Host) Communication Media Business Development Lead binnen Salesforce
 
 ## Intro Salesforce
 
@@ -35,7 +30,7 @@ De overstap naar een Salesforce omgeving.
 
 ### Partner portaal via Salesforce
 
-Hiervoor diende een upgrade te gebruiken, via een partner portal voor de partners( klanten) ieder portaal is custom aangepast per partner.
+Hiervoor diende een upgrade te gebruiken, via een partner portal voor de partners( klanten) ieder portaal is op maat aangepast per partner.
 binnen dit portaal kunnne partners aanvragen indienene voor de verschillende services die Liberty Global voor die psecifieke klant aanbied. Dit reduceerde 60% van het mailverkeer die anders zou gebeuren tussen Liberty Global en hun partners. Kiezen voor het werken met dit portaal zorgde er ook voor da deze aanvragen niet meer manueel moesten worden bijgehouden op excel sheets of soms op papier, maar dat deze nu automatisch in het portaal werden bijgehouden
 
 Deze overschakeling bood ook een meerwaarde voor hun partners, zo konden zij zelf aflezen vanuit het portaal wat de huidige status was van hun aanvraagn en ook wie specifiek hun aanvraag aan het behandelen is.
@@ -61,5 +56,8 @@ Nu kan Liberty Global van van 3 maanden op voorhand voor dat een contract beindi
 
 - Het uniform maken van het volledige partner proces.
 - Verbeterde interne verwerking van de demands.
+- Een 360° zicht op hun customers en partners
+- 
+
 
 ### Telco
