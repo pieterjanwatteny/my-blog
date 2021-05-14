@@ -57,6 +57,10 @@ Nu kan Liberty Global drie maanden op voorhand zien dat een contract ten einde l
 - Verbeterde interne verwerking van de demands.
 - Een 360° zicht op hun customers/partners
 
+### Links
 
-[Salesforce]: https://www.salesforce.com/
-[Liberty Gloabal] : https://www.libertyglobal.com/
+[Salesforce][salesforce]
+[Liberty Global][liberty-global]
+
+[salesforce]: https://www.salesforce.com/
+[liberty-global]: https://www.libertyglobal.com/
