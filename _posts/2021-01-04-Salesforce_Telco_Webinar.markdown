@@ -45,7 +45,7 @@ Naast een klantenportaal moest er bij Liberty Global ook intern een beter beheer
 
 Het overschakelen naar deze services zorgde voor een grote toename van beheer en overzicht voor Liberty Global. Zo was het voor hen intern ook direct duidelijker wat de huidige statusen zijn van alle demands en hoe deze werden afgehandeld. Vroeger was dit bijna niet mogelijk toen alles nog manueel of via mailverkeer geregeld werd. Deze effecten waren direct voelbaar na de eerste week dat de transitie gebeurd was van de oude manier van werken naar de nieuwe manier van werken met Salesforce.
 
-Binnen Liberty Global wordt er gewerkt met vele verschillende soorten contracten waar de afhandeling elk een andere aanpak verreist. Dit was vroeger een zeer uitdagende job om dit op te volgen en om efficiënt met deze werklast om te springen. Voor het beheren van al deze contracten werd er een custom applicatie gebouwd op het Salesforce platform in samenwerking met Salesforce developers. Binenn deze op maat gemaakte applicatie werden ook bepaalde bedrijfsregels ingebouwd wat ook terug voor extra automatisatie en controle zorgde. Deze custom dashboard applicatie heeft een zeer goed overzicht van alle service contracten die momenteel lopende zijn binnen Liberty Global.
+Binnen Liberty Global wordt er gewerkt met vele verschillende soorten contracten waar de afhandeling elk een andere aanpak verreist. Dit was vroeger een zeer uitdagende job om dit op te volgen en om efficiënt met deze werklast om te springen. Voor het beheren van al deze contracten werd er een custom applicatie gebouwd op het Salesforce platform in samenwerking met Salesforce developers. Binenn deze op maat gemaakte applicatie werden ook bepaalde bedrijfsregels ingebouwd wat ook terug voor extra automatisatie en controle zorgde. Deze custom dashboard applicatie heeft een zeer goed overzicht van alle service contracten die momenteel lopende zijn binnen Liberty Global. Dit Globaal overzicht is voor iemand zoals Joris een zeer groot geschenk en maakt zijn job dus veel overzichtelijker.
 
 Nu kan Liberty Global drie maanden op voorhand zien dat een contract ten einde loopt en kunnen er reeds acties ingepland worden om de onderhandelingen tot verlenging van deze contracten. Dit wordt mede mogelijk gemaakt door dit nieuwe verworven overzicht via de custom app.
 
@@ -54,13 +54,15 @@ Nu kan Liberty Global drie maanden op voorhand zien dat een contract ten einde l
 ### De hoogste nieuwe waardes door deze implementatie 
 
 - Het uniform maken van het volledige partner proces.
-- Verbeterde interne verwerking van de demands.
-- Een 360° zicht op hun customers/partners
+- Vlottere werking en reductie van papierwerk.
+- Hevige reductie van email verkeer tussen medewerkers van Liberty Global en partners.
+- Een reductie in fouten  en dublicaten door het implementeren van bussinesregels die in de custom app gebakken zitten.
+- Een 360° zicht op hun customers/partners doorgeen het volledige proces.
 
 ### Links
 
-[Salesforce][salesforce]
-[Liberty Global][liberty-global]
+- [Salesforce][salesforce]
+- [Liberty Global][liberty-global]
 
 [salesforce]: https://www.salesforce.com/
 [liberty-global]: https://www.libertyglobal.com/
