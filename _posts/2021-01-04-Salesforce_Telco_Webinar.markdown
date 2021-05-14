@@ -9,7 +9,7 @@ image2: /assets/images/patnerportaal.jpg
 image3: /assets/images/accountmanagement_2.jpg
 image4: /assets/images/contractmanagement.jpg
 ---
-## Onderwerp :
+## Onderwerp 
 
 Deze post behandelt een Salesforce webinar waar een gastspreker van een grote Telco (Telephone company) zijn ervaring deelt bij een implementatie van Salesforce. hij bespreekt hierbij wat de challenges waren en wat voor Liberty Global de grootste veranderingen zijn bij de nieuwe manier van werken die Salesforce introduceerde.
 
@@ -56,3 +56,7 @@ Nu kan Liberty Global drie maanden op voorhand zien dat een contract ten einde l
 - Het uniform maken van het volledige partner proces.
 - Verbeterde interne verwerking van de demands.
 - Een 360° zicht op hun customers/partners
+
+
+[Salesforce]: https://www.salesforce.com/
+[Liberty Gloabal] : https://www.libertyglobal.com/
