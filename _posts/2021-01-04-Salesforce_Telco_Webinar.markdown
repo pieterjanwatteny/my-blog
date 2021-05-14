@@ -25,7 +25,7 @@ De gastspreker van deze webinar is Joris Vollebergh, deze persoon staat in voor 
 
 De overstap naar een Salesforce omgeving.
 
-![Salesforce Logo]({{page.image | relative_url : width=250 }})
+![Salesforce Logo]({{page.image | relative_url width="250"}})
 
 ### Partnerportaal via Salesforce
 
