@@ -4,7 +4,7 @@ title: "Salesforce + Amazon Connect Tutorial"
 date: 2021-03-28 13:30:00 +0100
 categories: Blogpost
 author: Pieter-Jan Watteny
-imgage1: /assets/images/Aws_Salesforce.jpg
+awsSF: /assets/images/awsSF.jpg
 step1: /assets/images/step1.jpg
 step2: /assets/images/step2.jpg
 step3: /assets/images/step3.jpg
@@ -23,7 +23,7 @@ step14: /assets/images/step14.jpg
 
 
 ---
-![Aws+Salesforce]({{page.image1 | relative_url}})
+![Aws+Salesforce]({{page.awsSF | relative_url}})
 # Onderzoek, wat is Amazon Connect
 
 Hoe kom ik tot de beslissing om een tutorial te schijven over de integratie van Salesforce en Amazon Connect?
