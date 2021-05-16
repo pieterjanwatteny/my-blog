@@ -10,7 +10,7 @@ headshot: /assets/images/Watteny_Pieter-jan.png
 
 Mijn naam is Watteny Pieter-Jan en ik ben op het moment dat ik deze blog schrijf een student aan de Howest bij de opleiding Toegepaste Informatica met als keuzetraject 'ICT & BlockChain Consultant'.Zelf ben ik al van kinds af aan geintereseerd geweest in IT, maar het is pas enkele jaren terug toen ik deze intresse heb omgezet in een doel en dat is ten eerste het behalen van mijn bachelors diploma en bij gevolg een job te vinden in de IT-sector en bij voorkeur als consultant. 
 
-Link naar mijn Linkedin profiel | [Watteny Pieter-Jan](https://www.linkedin.com/in/pieter-jan-watteny/)
+Link naar mijn Linkedin profiel [Watteny Pieter-Jan](https://www.linkedin.com/in/pieter-jan-watteny/)
 
 ## Waarom ?
 De reden waarom ik vooral consultant wil worden en ook gekozen heb voor dit keuzetraject is omdat ik reeds enkele jaren voor ik starte aan de opleiding verschillende job's heb gehad en meermaals heb ik meegemaakt hoe het soms foutloopt op bepaalde werkvloeren door een miscommunicatie of een IT-regelateerd probleem. Dit lijdt tot veel frustraties en het is van daaruit dat ik graag veranderingen zou willen kunnen brengen binnen de bedrijven. Door het implementeren van betere en efficiëntere IT-oplossingen met als voorbeeld het CRM platfrom Salesforce kan dit een grote meerwaarde zijn voor bedrijven en klanten en dit zorgt op zijn beurd (hopelijk) voor een aangenamere werkervaaring voor iedereen.
