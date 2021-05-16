@@ -6,7 +6,7 @@ categories: Blogpost
 author: Pieter-Jan Watteny
 image: /assets/images/Trustteam.jpg
 voipplay: /assets/images/Voipplay.jpg
-voipplaycentrale: /assets/images/platform_voipplay.jpg
+voipplaycentrale: /assets/images/paltform_voipplay.jpg
 
 ---
 
@@ -45,6 +45,29 @@ nog een bijkomend voordeel is dat er wordt gebruik gemaakt van VOIP ( Voice Over
 
 ![Voipplay Platform ]({{page.voipplaycentrale | relative_url}})
 
+Naast de standaard verwachte funtionaliteiten die verwacht worden van een basis telefooncentrale zijn er nog vele andere functionaliteiten, hieronder worden deze eens op een rijtje gezet:
+
+- Spraakberichten
+- Flexibel doorschakelen
+- Automatisch doorschakelen
+- Instelbare wachtrij met wachtmuziek
+- IVR (Keuzemenu)
+- Adresboeken
+- Weekschema
+- Sneltoetsen
+- Voicemal via e-mail
+- Gespreksopname
+- Dag/nachmodus
+- Flexdesk
+- QR-code provisioning
+- Televergadering
+- Fax to email
+- Voice Operator Panel (VOP)
+- Custom functionaliteit
+
+Zoals je kan zien is er heel veel mogelijk en configureerdbaar binnen het Voipplay platform. Als de functionaliteit die een bedrijf zoekt niet in het gamma zitten dan kan deze worden ontwikkeld omdat het volledige platform binnen eigen beheer van Trustteam is.
+
+meer details en uitleg over deze mogelijkheden vindt u hier [Voipplay functionaliteiten](https://www.voipplay.be/nl/functionaliteiten)
 
 
 
