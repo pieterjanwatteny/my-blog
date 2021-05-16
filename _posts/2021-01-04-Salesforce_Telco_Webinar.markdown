@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Salesforce Telco Webinar"
+title:  "Salesforce Telco Webinar met als gast Liberty Global"
 date:   2021-01-04 15:30:45 +0100
 categories: Blogpost
 author: Pieter-Jan Watteny
@@ -9,9 +9,11 @@ image2: /assets/images/patnerportaal.jpg
 image3: /assets/images/accountmanagement_2.jpg
 image4: /assets/images/contractmanagement.jpg
 ---
-## Onderwerp 
+## Wat is Salesforce en Liberty Global?
 
 Deze post behandelt een Salesforce webinar waar een gastspreker van een grote Telco (Telephone company) zijn ervaring deelt bij een implementatie van Salesforce. hij bespreekt hierbij wat de challenges waren en wat voor Liberty Global de grootste veranderingen zijn bij de nieuwe manier van werken die Salesforce introduceerde.
+
+Salesforce is een in de cloud gebaseerd klantenrelatiebeheer platform (CRM) deze is globaal de marktleider op dit vlak, de mogelijkheden binnen Salesforce zijn bijna oneindig en deze blogpost zal aantonnen wat de overstap naar dit platform kan teweeg brengen met vooral out-of-the-box features.
 
 Liberty Global, Shiphol is een internationaal telecommunicatiebedrijf met hoofdkantoren in Londen, Amsterdam en Denver. 
 De gastspreker van deze webinar is Joris Vollebergh, deze persoon staat in voor het beheren van de vele partnercontracten die ze afsluiten. Telenet is hun grootste partner hier in België.
