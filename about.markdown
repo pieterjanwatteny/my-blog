@@ -2,17 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+image: /assets/images/Jekyll.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hallo en welkome op mijn blogsite.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Mijn naam is Watteny Pieter-Jan en ik ben op het moment dat ik deze blog schrijf een student aan de Howest bij de opleiding Toegepaste Informatica met als keuzetraject 'ICT & BlockChain Consultant'. deze blog kwam tot stand door gebruik te maken van Jekyll in combinatie met Github Pages. Jekyll op zicht is een statische sitegenator geschreven in Ruby en meer specifiek gericht is op het schijven van blogs die op zijn gebuild en gehost worden op het Github Pages platform.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![Jekkyl logo]({{page.image | relative_url}})
