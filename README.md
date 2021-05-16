@@ -1,2 +1,2 @@
-# This is my Jekyll based blog
-i will be updating this blog as we go
+# This is my Jekyll + GitHub Pages based blogsite
+-Watteny Pieter-jan ~
