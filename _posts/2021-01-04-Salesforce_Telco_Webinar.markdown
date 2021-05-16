@@ -17,7 +17,6 @@ Liberty Global, Shiphol is een internationaal telecommunicatiebedrijf met hoofdk
 De gastspreker van deze webinar is Joris Vollebergh, deze persoon staat in voor het beheren van de vele partnercontracten die ze afsluiten. Telenet is hun grootste partner hier in België.
 
 ## Wie? 
-
 - Joris Vollebergh (guest) Directtor partner Service management binnen Liberty Global.
 
 - Bastien Durand (Host) Communication Media Business Development Lead binnen Salesforce.
@@ -28,7 +27,7 @@ De overstap naar een Salesforce omgeving.
 
 ![Salesforce Logo]({{page.image | relative_url}})
 
-### Custom partnerportaal 
+### Partnerportaal via Salesforce
 
 Voor de implementatie van een partnerportaal was een update nodig van hun Salesforce omgeving, ieder portaal is op maat gemaakt en aangepast per partner (klant).
 Binnen dit portaal kunnen partners aanvragen indienen voor de verschillende services die Liberty Global voor die specifieke klant aanbiedt. Dit reduceerde 60% van het mailverkeer die anders zou gebeuren tussen Liberty Global en hun partners. Kiezen voor het werken met dit portaal zorgde er ook voor dat deze aanvragen niet meer manueel moeten worden bijgehouden op Excel sheets of soms nog op papier, maar dat deze nu automatisch in het partnerportaal worden bijgehouden.
@@ -58,7 +57,7 @@ Nu kan Liberty Global drie maanden op voorhand zien dat een contract ten einde l
 - Vlottere werking en reductie van papierwerk.
 - Hevige reductie van email verkeer tussen medewerkers van Liberty Global en partners.
 - Een reductie in fouten  en dublicaten door het implementeren van bussinesregels die in de custom app gebakken zitten.
-- Een 360° zicht op hun customers/partners doorgeen het volledige proces voor de partners en Liberty Global.
+- Een 360° zicht op hun customers/partners doorgeen het volledige proces.
 
 ### Links
 
