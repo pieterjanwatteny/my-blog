@@ -6,6 +6,7 @@ categories: Blogpost
 author: Pieter-Jan Watteny
 image: /assets/images/Trustteam.jpg
 voipplay: /assets/images/Voipplay.jpg
+voipplaycentrale: /assets/images/platform_voipplay.jpg
 
 ---
 
@@ -36,11 +37,15 @@ Voipplay is dus een telefooncentrale die zich volledig in de cloud bevindt. Dit 
 
 ![Voipplay]({{page.voipplay | relative_url}})
 
+Nu wat wil dit concreet zeggen? Dit betekent datt je niet locatie gebonden bent bij het gebruiken van Voipplay, dezelfde cloud telefoniecentrale kan worden gebruikt op gelijk welke locatie waar men een internetverbinden heeft. Zo is het bijvoorbeeld mogelijk dat mensen die van thuis uit werken ook nog daadwerkelijk gebruik kunnen maken van hetzelfde telefoonnerwerk zoals op kantoor. Ook bedrijven met verschillende locaties hebben op die manier maar een en hetzelfde telefoonnetwerk die moet beheerd worden.
+
+Nog een bijkomend voordeel van het gebruik van Voipplay is dat deze zeer veel zaken automatisch kan doen die vroeger manueel werden gedaan zoals automatisch de correcte beschikbare contacpersoon zoeken wanneer de telefooncentrale gebeld wordt. vroeger kwam je soms uit op een toestel waar niemand aanwezig was om op te nemen, met het platfrom van Voipplay kunnen zulke problemen automatisch verholpen worden. Dit zorgt voor minder frustraties bij de inbellende klanten omdat deze dan niet onnodig voor lange periodes aan de lijn worden gehouden om dan uiteindelijk niet geholpen te kunnen worden.
+
+nog een bijkomend voordeel is dat er wordt gebruik gemaakt van VOIP ( Voice Over IP) dit brengt met zich me dat da kostprijs van het bellen een stuk goedkoper is dan traditionele telefonie. in de praktijk zou dit neerkomen op een daling van kosten tot wel 45%!
+
+![Voipplay Platform ]({{page.voipplaycentrale | relative_url}})
 
 
 
 
 
-
-
-![Hack The Future]({{page.image2 | relative_url}})

@@ -21,7 +21,7 @@
 title: My personal blog
 email: pieterjanwatteny@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a blogsite where articles of some webinars and hackathons wil appear  
+  This is a dutch blogsite with blogpost about Salesforce and Cloud Telepony
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://pieterjanwatteny.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JanWatteny
